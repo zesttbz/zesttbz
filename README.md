@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @zesttbz
-- 👀 Con bò cute
-- hack game ios, make tweak - deb, design web
+
 - Contact for work: zest.tbz@gmail.com
 
 - # 📊 GitHub Stats:
